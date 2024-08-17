@@ -64,6 +64,7 @@ The Calculator App is a basic console calculator that performs arithmetic operat
 Special thanks to Cogno Rise Infotech for providing the opportunity to work on these interesting projects.
 
 
+---
 
 **Made By Viraj Tupe**
 
