@@ -20,7 +20,7 @@ The Number Guessing Game is a simple console-based application where users attem
 - Utilizes ANSI colors for feedback messages.
 - Incorporates emojis to enhance user experience.
 
-**Class Name:** `NumberGuessingGameViraj`
+**Class Name:** `NumberGuessingGameTask1`
 
 ---
 
@@ -38,7 +38,7 @@ The Library Management System is a console application designed to manage a coll
 - Uses ANSI colors to provide visual feedback.
 - Includes clear formatting and icons for better user interaction.
 
-**Class Name:** `LibraryManagementSystemViraj`
+**Class Name:** `LibraryManagementSystemTask2`
 
 ---
 
@@ -56,7 +56,7 @@ The Calculator App is a basic console calculator that performs arithmetic operat
 - Implements ANSI colors for result and error messages.
 - Includes emojis for a visually engaging interface.
 
-**Class Name:** `CalculatorAppViraj`
+**Class Name:** `CalculatorAppTask3`
 
 
 ## Acknowledgments
